@@ -1,0 +1,10 @@
+{
+  "name": "accessibility-playground",
+  "short_name": "accessibility",
+  "theme_color": "#ff9a88",
+  "background_color": "#fcfcfc",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/"
+}
